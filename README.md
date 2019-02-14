@@ -9,4 +9,4 @@ Code for Measurement and Data Analysis in Biomedical Engineering
 - Continous Input & Output
 - Continous Input & Output with Sound Device
 ### Temperature
-- Temperature PID
+- Temperature PID with relays control
